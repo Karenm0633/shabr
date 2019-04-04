@@ -4,13 +4,18 @@ body {
     height: 100%;
 
 }
+head
+{
+    color:#FFF00C;
+}
 
 .text-vertical-center {
     text-align: center;
 }
-#ballon1{
+#firstpart{
     background-image: url("img/balloon-1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    height:100%;
     
 }
