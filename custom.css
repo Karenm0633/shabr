@@ -26,8 +26,27 @@ head {
     background-size: cover;
 
 }
-h2 {
+#firstpart h1,h2{
+    color:#c4d7f1;
+}
+h1{
     text-align: center;
+    font-family: 'Baloo Chettan', cursive;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 75%
+}
+h2 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+h3{
+   font-family: 'Cinzel', serif;
+    font-size: 25px;
+    font-weight: 900;
+}
+p{
+    font-family: 'Prata', serif;
 }
 body{
     background-color: #CFF1FF ;
