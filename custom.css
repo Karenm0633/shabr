@@ -26,9 +26,32 @@ head {
     background-size: cover;
 
 }
+
 h2 {
     text-align: center;
 }
-body{
-    background-color: #CFF1FF ;
+
+body {
+    background-color: #CFF1FF;
+}
+
+#secondpart {
+    display: table;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding: 0px 80px;
+    font-size: 20px;
+}
+#testimonials{
+    display: table;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+}
+.col-sm-12col-sm-10{
+    font-size: 20px;
+     padding: 0px 80px;
 }
