@@ -28,9 +28,11 @@ head {
 }
 
 
-#firstpart h1,h2{
-    color:#00FFFF;
+#firstpart h1,
+h2 {
+    color: #00FFFF;
 }
+
 h1 {
     text-align: center;
     font-family: 'Baloo Chettan', cursive;
@@ -93,8 +95,8 @@ body {
     background-color: #CFF1FF;
 }
 
-#Testimonials,
-p {
+
+#Testimonials p {
     border-style: solid;
 }
 #contact,
@@ -113,9 +115,14 @@ p
         font-size: 100px;
     }
 }
+
 @media(min-width:1200px) {
     h1 {
 
         font-size: 200px;
     }
+}
+
+#info p {
+    border-style: solid;
 }
