@@ -104,12 +104,18 @@ body {
 
         font-size: 50px;
     }
+    h2{
+        font-size: 25px;
+    }
 }
 
 @media(min-width:792px) {
     h1 {
 
         font-size: 100px;
+    }
+    h2{
+       font-size: 50px; 
     }
 }
 
@@ -118,8 +124,11 @@ body {
 
         font-size: 200px;
     }
+    h2{
+        font-size: 100px;
+    }
 }
 
-#info p {
+#secondpart p {
     border-style: solid;
 }
